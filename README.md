@@ -11,6 +11,7 @@ A simple console-based calculator application written in Rust. It accepts user i
 ## Prerequisites
 
 - Rust installed on your system. If Rust is not installed, you can install it using the following command:
+  
   ```bash
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
